@@ -32,6 +32,5 @@ Following soon
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**
-- **[Twitter]**(your_twitter_profile_link)
+- **Discord:** dev_burak
+
